@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Woche3</string>
+    <string name="texto">Willkommen</string>
+    <string name="boton">Betreten</string>
+    <string name="imagen">Hintergrundbild</string>
+</resources>
